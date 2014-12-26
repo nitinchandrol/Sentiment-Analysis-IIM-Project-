@@ -1,0 +1,182 @@
+PRICE
+"'value''price''0'['iphone', '4', '-', 'used', 'to', 'be', 'very', 'good', 'value', 'for', 'money']"
+"'value''price''0'['i', 'feel', 'its', 'good', 'value']"
+'\'price\'\'price\'\'0\'[\'\', \'trust\', \'me\', "i\'m", \'amazed\', \'the\', \'way\', \'they\', \'have\', \'started\', \'their\', \'website\', \'by\', \'such\', \'low\', \'prices\', \'for\', \'almost\', \'every\', \'product\']'
+"'price''price''0'['', 'also', 'well', 'priced', '']"
+"'price''price''0'['best', 'price', 'i', 'got', 'for', 'iphone4']"
+"'price''price''0'['i', 'got', 'iphone', '4', 'at', 'best', 'ever', 'price']"
+"'price''price''0'['', 'best', 'product', 'at', 'price']"
+
+"'expensive''price''1'['', 'it', 'is', 'a', 'bit', 'expensive']"
+
+"'order''price''2'['ordered', 'this']"
+"'price''price''2'['', 'price', 'is', 'around', '22500', 'and']"
+"'budget''price''2'['budget', 'phone', 'with']"
+
+
+PICTURE
+"'camera''picture''0'['', 'maybe', 'the', 'camera', 'is', 'better']"
+"'picture''picture''0'['i', 'use', 'a', 'dslr', 'so', 'i', 'am', 'not', 'sure', 'what', 'the', 'improvement', 'in', 'the', 'picture', 'quality', 'will', 'be']"
+"'photo''picture''0'['', 'the', 'photos', 'i', 'clicked', 'were', 'good', 'considering', 'this', 'is', 'a', 'mobile']"
+
+
+
+
+BATTERY
+"'charging''battery''0'['d', 'fine', 'heats', 'up', 'while', 'charging', 'but']"
+
+"'device''battery''1'['', 'update', 'after', '8', 'months', '-', 'the', 'ios7', 'has', 'killed', 'the', 'device']"
+
+"'stuff''battery''2'['stuff', 'so', 'i', 'am', 'ok']"
+
+
+STORAGE
+"'build''storage''0'['', 'had', 'a', 'very', 'good', 'build', 'quality', 'and']"
+"'touch''storage''0'['', 'touchscreen', 'is', 'amazing']"
+
+
+"'store''storage''2'['5', 'in', 'stores', 'but']"
+"'make''storage''2'['', 'when', 'you', 'make', 'a', 'call']"
+"'process''storage''2'['', 'may', 'it', 'be', 'refunding', 'process']"
+"'process''storage''2'['', 'replacement', 'process']"
+'\'gb\'\'storage\'\'2\'[\'\', \'8gb)"\', \'"\', \'s_star_4_5\', \'title=4\']'
+
+
+UPGRADE
+
+
+
+
+HARDWARE
+"'display''hardware''0'['', 'display', 'is', 'also', 'great']"
+'\'screen\'\'hardware\'\'0\'[\'plastic\', \'screens\', \'which\', "don\'t", \'feel\', \'that\', \'nice\', \'in\', \'the\', \'hand\']'
+
+"'surface''hardware''1'['', 'the', 'glass', 'surface', 'does', 'not', 'get', 'scratched', 'and']"
+
+"'screen''hardware''2'['', 'the', 'other', 'person', 'has', 'said', 'hello', '5', 'times', 'before', 'those', 'options', 'turn', 'up', 'on', 'the', 'screen']"
+
+
+FEATURE
+"'use''feature''0'['was', 'easy', 'to', 'use']"
+
+
+"'use''feature''2'['', 'and', 'i', 'also', 'used', '4s', 'and']"
+"'use''feature''2'['i', 'just', 'use', 'facebook', 'and']"
+"'use''feature''2'['', 'i', 'tell', 'myself', 'to', 'use', 'it', 'for', 'some', 'more', 'time']"
+"'bluetooth''feature''2'['you', 'want', 'to', 'go', 'to', 'bluetooth', 'or', 'speaker']"
+"'part''feature''2'['in', 'has', 'played', 'its', 'part', 'after', 'stepping', 'into', 'the', 'world', 'of', 'competition', 'in', 'indian', 'market']"
+
+
+SIZE
+
+"'bulky''size''1'['', 'nokia', 'was', 'too', 'bulky', 'and']"
+"'big''size''1'['', 'biggest', 'joke']"
+
+
+
+DESIGN
+"'design''design''0'['', 'applications', 'like', 'facebook', 'are', 'also', 'very', 'well', 'designed']"
+"'looks''design''0'['a', 'glass', 'back', 'looks', 'really', 'good', 'even', 'now']"
+"'looks''design''0'['', 'buy', 'android', 'since', 'ios7', 'looks', 'so', 'much', 'like', 'android', 'anyway!', 'ios7', 'on', 'iphone', '4', 'and']"
+"'looks''design''0'['', 'because', 'it', 'looks', 'good']"
+
+"'looks''design''1'['the', 'looks', 'of', 'the', 'phone', 'are', 'still', 'hard', 'to', 'beat']"
+
+"'mode''design''2'['', 'which', 'is', 'the', 'latest', 'model']"
+"'look''design''2'['', 'i', 'was', 'looking', 'at', 'nokia', 'and']"
+"'looks''design''2'['', 'in', 'terms', 'of', 'device', 'looks', 'and']"
+'\'interface\'\'design\'\'2\'[\'my\', \'kids\', \'use\', \'my\', \'phone\', \'more\', \'than\', \'me\', \'so\', \'its\', \'ok\', \'till\', \'they\', "don\'t", \'complain!\', \'the\', \'interface\', \'to\', \'make\', \'phone\', \'calls\', \'and\']'
+"'look''design''2'['', 'but', 'looking', 'at', 'it', 'alone']"
+"'feel''design''2'['premium', 'feel']"
+
+
+MEDIA
+"'play''media''0'['they', 'love', 'playing', 'with']"
+"'web''media''0'['', 'i', 'must', 'say', 'that', 'other', 'leading', 'websites', 'like', 'flipkart', 'and']"
+
+"'back''media''1'['', 'its', 'a', 'huge', 'step', 'backward', 'for', 'iphone4']"
+"'apps''media''1'['', 'the', 'apps', 'are', 'slower', 'on', 'my', 'phone', 'but']"
+
+"'apps''media''2'['', 'i', 'have', 'installed', 'lots', 'of', 'apps', 'for', 'my', 'kids', 'and']"
+"'play''media''2'['up', 'to', 'kids', 'playing', 'with']"
+'\'apps\'\'media\'\'2\'[\'\', \'i\', "don\'t", \'do\', \'too\', \'many\', \'apps\', \'and\']'
+'\'apps\'\'media\'\'2\'[\'\', \'i\', "don\'t", \'use\', \'many\', \'apps\', \'and\']'
+"'apps''media''2'['closing', 'open', 'apps']"
+
+
+SOUND
+"'speaker''sound''0'['', 'speakers', 'fidelity', 'is', 'very', 'good']"
+"'pack''sound''0'['it', 'was', 'well', 'packaged', 'cant', 'ask', 'for', 'more']"
+
+"'beat''sound''1'['', 'this', 'is', 'hard', 'to', 'beat', 'in', 'the', 'market']"
+"'call''sound''1'['', 'there', 'is', 'a', 'disturbing', 'notice', 'when', 'i', 'am', 'trying', 'to', 'call', 'some', 'one', '']"
+
+"'pack''sound''2'['we', 'received', 'the', 'package', 'within']"
+
+
+SERVICE
+"'delivery''service''0'['24', 'hours!', 'delivery', 'process', 'was', 'amazing']"
+"'performance''service''0'['could', 'not', 'discern', 'an', 'appreciable', 'difference', 'in', 'performance']"
+"'review''service''0'['', 'review', 'after', '6', 'months', 'of', 'usage', '-', 'the', 'phone', 'has', 'stood', 'up', 'well']"
+"'service''service''0'['best', 'service', 'ever', 'i', 'have', 'got', 'in', 'my', '6', 'years', 'of', 'online', 'experience!']"
+"'service''service''0'['i', 'have', 'always', 'considered', 'that', 'flipkart', 'has', 'the', 'best', 'services']"
+"'service''service''0'['good', 'service']"
+"'service''service''0'['', 'the', 'service', 'was', 'excellent', 'and']"
+"'service''service''0'['', 'good', 'customer', 'service', 'with']"
+"'bill''service''0'['', 'i', 'need', 'bill', 'for', 'technical', 'support', '']"
+
+"'getting''service''1'['', 'only', 'problem', 'is', 'getting', 'a', 'micro', 'sim', '-', 'which', 'any', 'mobile', 'shop', 'should', 'be', 'able', 'to', 'do']"
+
+"'deliver''service''2'['', 'the', 'package', 'was', 'delivered', 'within']"
+"'review''service''2'['', 'hope', 'this', 'review', 'helps', 'you']"
+"'delivery''service''2'['', 'cancellation', 'process', 'or', 'delivery', 'time']"
+"'case''service''2'['after', 'putting', 'on', 'a', 'case', 'on', 'it', 'it', 'is', 'normal', '']"
+"'response''service''2'['quick', 'response', 'too']"
+"'bill''service''2'['bill', 'me', 'the', 'bill', 'of', 'iphone', '4']"
+'\'bill\'\'service\'\'2\'[\'\', \'please\', \'prove\', \'me\', \'bill\', \'of\', \'phone\', \'"\', \'http://www\']'
+"'review''service''2'['in:', 'customer', 'reviews:', 'apple', 'iphone', '4', '(white']"
+
+
+HELP-CARE
+"'facility''help-care''0'['', 'their', 'own', 'courier', 'facility', 'is', 'even', 'better', 'than', 'flipkart', 'that', 'anyone', 'can', 'rely', 'on', 'it', 'without']"
+
+
+"'want''help-care''2'['', 'i', 'wanted', 'something', 'that', 'was', 'not', 'too', 'large']"
+"'keep''help-care''2'['i', 'keep', 'resetting', 'the', 'device', 'and']"
+"'keep''help-care''2'['keeping', 'any', 'followup']"
+"'care''help-care''2'['utmost', 'care', 'but']"
+"'tech''help-care''2'['knew', 'all', 'technical', 'specifications', 'so', 'no', 'surprises', 'there']"
+
+
+OVERALL
+"'good''overall''0'['this', 'is', 'a', 'very', 'good', 'product']"
+"'good''overall''0'['', 'i', 'got', 'a', 'good', 'deal', 'at', 'amazon', 'and']"
+"'well''overall''0'['', 'balle', 'balle', 'to', 'amazon!', 'iphone', 'is', 'very', 'well', 'built']"
+"'good''overall''0'['', 'accessories', 'are', 'also', 'very', 'good']"
+"'phone''overall''0'['', 'i', 'feel', 'the', 'material', 'for', 'this', 'phone', 'is', 'better', 'than', 'the', '5', 'series', 'and']"
+"'well''overall''0'['takes', 'abuse', 'well']"
+"'phone''overall''0'['i', 'use', 'a', 'phone', 'guard', 'as', 'well']"
+"'well''overall''0'['', 'is', 'constructed', 'well', 'and']"
+"'good''overall''0'['', 'but', 'i', 'would', 'definitely', 'look', 'for', 'a', 'good', 'deal', 'since', 'its', 'an', 'old', 'phone']"
+"'phone''overall''0'['', 'i', 'would', 'also', 'prefer', 'to', 'have', 'a', 'set', 'that', 'has', 'ios6', 'installed!!', 'but', 'if', 'i', 'get', 'a', 'nokia', 'windows', 'phone', 'or', 'an', 'android', 'with']"
+"'phone''overall''0'['', 'still', 'the', 'phone', 'runs', 'amazingly', 'slow', 'now']"
+"'best''overall''0'['ebay', 'must', 'start', 'thinking', 'upon', 'their', 'new', 'rival', 'now', 'as', 'its', 'gonna', 'be', 'the', 'best', 'in', 'few', 'time']"
+"'phone''overall''0'['joke', 'phone', 'was', 'the', 'thing', 'that', 'led', 'to', 'the', 'advent', 'of', 'smartphones', 'we', 'use', 'today']"
+"'like''overall''0'['awesome', 'got', 'it', 'like', 'few', 'weeks', 'ago', 'and']"
+"'good''overall''0'['', 'but', 'got', 'very', 'good', 'deal', 'at', 'amazon', '']"
+"'good''overall''0'['', 'good', 'phone', 'to', 'gift', '']"
+
+"'phone''overall''1'['', 'my', 'friends', 'who', 'have', '5', 'have', 'scratches', 'on', 'the', 'back', 'side', 'of', 'their', 'phone', 'but']"
+"'phone''overall''1'['', 'searching', 'for', 'contacts', 'to', 'make', 'a', 'simple', 'phone', 'call', 'is', 'arduous']"
+"'phone''overall''1'['phone', 'produces', 'some', 'disturbance', 'while', 'calling', 'and']"
+
+"'phone''overall''2'['', 'for', 'a', 'phone', 'that', 'is', '2', 'generations', 'old']"
+"'phone''overall''2'['this', 'phone']"
+"'phone''overall''2'['my', 'phone', 'with']"
+"'phone''overall''2'['', 'all', 'we', 'see', 'nowadays', 'are', 'plastic', 'phones', 'with']"
+"'phone''overall''2'['', 'if', 'you', 'are', 'buying', 'a', 'new', 'phone']"
+"'phone''overall''2'['', 'please', 'stay', 'away', 'from', 'this', 'phone', 'unless', 'you', 'get', 'one', 'with']"
+"'best''overall''2'['', 'i', 'wish', 'you', 'guys', 'all', 'the', 'very', 'best!', 'kudos!!!', '']"
+"'phone''overall''2'['', 'i', 'have', 'used', 'the', 'phone', 'with']"
+
+

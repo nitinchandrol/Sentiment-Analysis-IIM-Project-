@@ -1,0 +1,34 @@
+feature_list=["price", "picture","battery","storage", "upgrade","hardware","feature","size","design","media","sound","service","help-care","overall"]
+feature= [
+
+[],
+
+['videos', 'scan', 'photo', 'blur','photography', 'video', 'flush', 'camera', 'pixel', 'picture', 'image', 'zoom','resolution'],
+
+['charge', 'charging', 'battery', 'discharge', 'backup','rechagre','adapter'],
+
+['build','memory','gb','mb','kb','capacity', 'ram','processing','core','processor'],
+
+['advance', 'upgrade', 'improvement', 'version', 'upgrded'],
+
+['hardware','screen','display','dial', 'key','button'],
+
+['bluetooth','wifi','usb','gprs','function','menu','option','setting'],
+
+['heavy', 'bulky', 'weight', 'massive', 'light', 'size','small'],
+
+['shape','style','looks','design','interface','color', 'colour','layout'],
+
+['internet','gaming', 'game','apps','radio','web','movie','fm','map'  ],
+
+['song','beat', 'tone', 'headphone', 'music', 'sound', 'earphone', 'speaker', 'audio','volume','voice','ring'],
+
+['experience','log', 'reception','signal','network', 'bill', 'packaging', 'service', 'ordering', 'offer', 'delivery', 'packing', 'performance', 'review','defective','deliver',"delay",'phonebook','software'],
+
+['support', 'facility','help', 'care','help-line','trust','maintenance','portability','tech','kit','manual'],
+
+['phone','feature','better','average','genral','overall','like','good']
+]
+
+new_syn = [['dollar', 'worth', 'cost', 'range', 'expensive','cheap', 'budget', 'value','price','rupee','run', 'chain', 'price', 'flash', 'rate', 'cost', 'flashy', 'order'], ['even', 'picture', 'photo', 'boot', 'solution', 'fancy', 'range', 'video'], ['sound', 'great', 'angle', 'big', 'little', 'bragging', 'lighting', 'low', 'easy'], ['direction', 'bill', 'run', 'billing', 'point', 'support', 'drop', 'boot', 'file', 'care'], ['capability', 'march', 'center', 'form', 'process', 'make', 'work', 'storage', 'drive', 'content', 'force', 'store'], ['advance', 'upgrade', 'win', 'improvement', 'rendering', 'reading'], ['count', 'search', 'configuration', 'tone', 'aspect', 'form', 'title', 'color', 'colour', 'work', 'looking', 'feel', 'build', 'way', 'innovation', 'front', 'wait', 'expression', 'mode'], ['cover', 'name'], ['function', 'picture', 'play', 'back', 'wireless', 'game', 'net'], ['sound', 'bulk', 'good', 'look', 'get', 'feel', 'voice', 'headphone', 'note', 'phone', 'step', 'book', 'call', 'go', 'audio', 'quality', 'earpiece'], ['saving', 'help', 'point', 'feel', 'rate', 'have', 'go', 'check', 'compact', 'web', 'note', 'net', 'care', 'notice', 'offering', 'get', 'stay', 'response', 'card', 'wait', 'package', 'range', 'order', 'pack'], ['installation', 'service', 'deal', 'back', 'keep', 'caution', 'bank', 'backup', 'hope', 'like'], ['sound', 'good', 'just', 'well', 'headphone', 'call', 'earpiece', 'have', 'best', 'mean']]
+new_hyp = [['move', 'capability', 'set', 'installation', 'facility', 'bill', 'ideal', 'value', 'note', 'go', 'amount', 'cost', 'ask', 'quality', 'worth'], ['set', 'color', 'move', 'course', 'go', 'speed', 'process', 'conclusion', 'picture', 'product', 'someone', 'run', 'description', 'job', 'imagine', 'line', 'change', 'search', 'colour', 'recording', 'person', 'model'], ['status', 'look', 'surface', 'part', 'aspect', 'device', 'expression', 'class', 'friend', 'size'], ['set', 'cost', 'material', 'collection', 'voice', 'duplicate', 'stuff', 'part', 'trust', 'speed', 'change', 'conclusion'], ['function', 'hardware', 'capability', 'set', 'center', 'deal', 'process', 'volume', 'make', 'body', 'content', 'person', 'someone', 'stuff', 'power', 'better', 'touch', 'found', 'part', 'office', 'care'], ['status', 'motion', 'set', 'rate', 'package', 'support', 'move', 'range', 'side', 'hardware', 'amount', 'better', 'go', 'improvement', 'order', 'software'], ['tone', 'process', 'surface', 'touch', 'trust', 'quality', 'check', 'end', 'make', 'system', 'call', 'change', 'body', 'do', 'direction', 'form', 'material', 'bank', 'care', 'kind', 'name', 'work', 'stuff', 'mean'], ['kind', 'help', 'form', 'space', 'ordering', 'work', 'canvas', 'surface', 'display', 'ideal', 'design', 'device', 'copy', 'order', 'check'], ['picture', 'play', 'section', 'material', 'metal', 'product', 'competition', 'system', 'job', 'score', 'design', 'part', 'line'], ['sound', 'recording', 'play', 'buy', 'look', 'form', 'color', 'rate', 'make', 'move', 'product', 'bargain', 'delivery', 'amount', 'work', 'go', 'utter', 'piece', 'quality', 'colour'], ['work', 'force', 'help', 'process', 'move', 'system', 'have', 'go', 'utter', 'check', 'market', 'compact', 'canvas', 'support', 'feature', 'content', 'wait', 'company', 'function', 'run', 'power', 'get', 'couple', 'material', 'hand', 'delivery', 'post', 'change', 'name', 'case', 'remember', 'gift', 'getting', 'drop', 'keep', 'record', 'stuff', 'care'], ['advance', 'play', 'help', 'service', 'support', 'work', 'mind', 'hand', 'better', 'reason', 'part', 'want', 'device', 'voice', 'check', 'proof'], ['picture', 'product', 'good', 'superior', 'number', 'amount', 'have', 'total', 'change']]

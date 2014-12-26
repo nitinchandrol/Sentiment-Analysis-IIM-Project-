@@ -1,0 +1,33 @@
+feature_list=["price", "picture","battery","storage", "upgrade","hardware","feature","size","design","service","help-care","overall"]
+
+feature= [
+
+['dollar', 'worth', 'cost', 'range', 'expensive','cheap', 'budget', 'value','price','rupee','money'],
+
+['videos', 'scan', 'photo', 'pics','blur','photography', 'video', 'flush','mp','megapixel','pixel', 'picture', 'image', 'zoom','resolution'],
+
+['charge', 'charging', 'battery', 'discharge', 'backup','rechagre','adapter'],
+
+['build','memory','gb','mb','kb','capacity', 'ram','processing','core','processor'],
+
+['advance', 'upgrade', 'improvement', 'version', 'upgrded'],
+
+['hardware','screen','display','dial', 'key','button','tripod'],
+
+['viewfinder','focus','autofocus','automode','function','menu','option','setting'],
+
+['heavy', 'bulky', 'weight', 'massive', 'light', 'size','small'],
+
+['shape','style','looks','design','interface','color', 'colour','layout'],
+
+['experience','log', 'bill', 'packaging', 'service', 'ordering', 'offer', 'delivery', 'packing', 'performance', 'review','defective','deliver',"delay",'software','kit'],
+
+['support', 'facility','help', 'care','help-line','trust','maintenance','portability','tech'],
+
+['camera','feature','better','average','general','overall','like','good','quality']
+]
+
+
+ 
+new_syn = [['prize', 'image', 'reach', 'order', 'rate', 'price'], ['even', 'picture', 'charge', 'show', 'read', 'photo', 'image', 'level', 'scene', 'range', 'video', 'result', 'dim', 'exposure'], ['shoot', 'level', 'support', 'point', 'charge', 'file', 'clear'], ['heart', 'make', 'work', 'storage', 'capability', 'treat', 'frame'], ['upgrade', 'reading', 'advanced', 'further'], ['presentation', 'show'], ['go', 'use', 'work', 'card', 'choice'], ['great', 'lighting', 'clear', 'easy'], ['looking', 'look', 'title', 'color', 'frame', 'work', 'face', 'aim', 'feel', 'build', 'way', 'condition', 'mode'], ['box', 'compact', 'rate', 'package', 'feel', 'charge', 'tell', 'carry', 'range', 'have', 'go', 'order', 'card'], ['service', 'deal', 'assist', 'keep', 'charge', 'fear', 'backup', 'hope', 'concern'], ['good', 'secure', 'full', 'just', 'right', 'have', 'ordinary', 'best']]
+new_hyp = [['feed', 'set', 'parcel', 'facility', 'value', 'capability', 'need', 'program', 'go', 'quality', 'worth'], ['feed', 'picture', 'product', 'set', 'somebody', 'show', 'color', 'image', 'job', 'go', 'model', 'speed', 'decision', 'change'], ['material', 'set', 'shot', 'blessing', 'collection', 'aim', 'protection', 'shooting', 'speed', 'change'], ['body', 'capability', 'set', 'somebody', 'power', 'deal', 'make', 'better', 'touch', 'concern'], ['set', 'package', 'support', 'rate', 'better', 'range', 'go', 'type', 'order', 'condition', 'software'], ['control', 'secure', 'show', 'demo', 'face', 'add', 'protection', 'display'], ['do', 'software', 'package'], ['look', 'scene', 'face', 'charge', 'condition', 'size'], ['body', 'do', 'material', 'end', 'make', 'work', 'order', 'program', 'design', 'touch', 'instruction', 'quality', 'think', 'change'], ['show', 'go', 'have', 'seal', 'carry', 'market', 'compact', 'visit', 'feature', 'program', 'treat', 'presentation', 'company', 'assist', 'power', 'couple', 'material', 'reach', 'delivery', 'change', 'case', 'work', 'think'], ['control', 'work', 'service', 'support', 'assist', 'reach', 'keep', 'better', 'protection', 'further'], ['picture', 'product', 'good', 'reach', 'have', 'quality', 'change']]

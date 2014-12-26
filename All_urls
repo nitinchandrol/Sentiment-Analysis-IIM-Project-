@@ -1,0 +1,173 @@
+<camera>
+"http://www.amazon.in/gp/product/B00HY65Y4A",
+"http://www.amazon.com/dp/B003VTZE1M",
+"http://www.amazon.com/dp/B004J3V90Y",
+"http://www.amazon.com/dp/B00I8BIBCW",
+"http://www.amazon.in/dp/B00JB0IZHU",
+"http://www.amazon.in/dp/B00JM4VSWY",
+"http://www.amazon.in/dp/B00GUHN0NG",
+"http://www.amazon.in/dp/B008MB6ZX0",
+"http://www.amazon.in/dp/B00FPI18MQ",
+"http://www.amazon.in/dp/B00JPDG89U"
+
+<Canon> -["http://www.amazon.in/product-reviews/B00JB0IZHU",
+			"http://www.amazon.in/product-reviews/B00GUHN0NG",
+			"http://www.amazon.in/product-reviews/B00HY65Y4A"
+]
+
+<Nikon> -["http://www.amazon.in/product-reviews/B00JM4WGUW",
+"http://www.amazon.in/product-reviews/B00JM4VSWY",
+"http://www.amazon.in/product-reviews/B00A44X8UQ",
+] 
+
+<sony> - ["http://www.amazon.in/product-reviews/B00HWT09US",
+"http://www.amazon.in/product-reviews/B00CIRMLJ6",
+"http://www.amazon.in/product-reviews/B00IHS3RGQ",
+]
+
+<laptop>
+http://www.amazon.com/dp/B009LL9VDG"
+http://www.amazon.com/dp/B00JTI4X3E"
+
+<Smart-Phones>
+<Nokia> - ["http://www.amazon.in/product-reviews/B00CE2LO8Y"
+		   "http://www.amazon.in/product-reviews/B00HRUQ2L2",
+		   "http://www.amazon.in/product-reviews//B00EOPJEYK",
+		   B00GAPPY0A
+		   B00IXD0B8W
+		   B00CE2LUKQ
+		   B00DQ4D2N4
+		   B00CM4W5OQ
+		   
+		   
+		   ]
+
+<Samsung> - ["http://www.amazon.in/product-reviews/B00H3YSW6K?pageNumber=1",
+			 "http://www.amazon.in/product-reviews/B00H3YSW6K?pageNumber=2",
+			 "http://www.amazon.in/product-reviews/B00H3YSW6K?pageNumber=3",
+			 "http://www.amazon.in/product-reviews/B00H3YSW6K?pageNumber=4",
+			 "http://www.amazon.in/product-reviews/B00H3YSW6K?pageNumber=5",
+			 "http://www.amazon.in/product-reviews/B00H3YSW6K?pageNumber=6",
+			 "http://www.amazon.in/product-reviews/B00H3YSW6K?pageNumber=7",
+			 "http://www.amazon.in/product-reviews/B00H3YSW6K?pageNumber=8",
+			 "http://www.amazon.in/product-reviews/B00H3YSW6K?pageNumber=9",
+			 "http://www.amazon.in/product-reviews/B00H3YSW6K?pageNumber=10",
+			 "http://www.amazon.in/product-reviews/B00H3YSW6K?pageNumber=11",
+			 "http://www.amazon.in/product-reviews/B00H3YSW6K?pageNumber=12",
+			 "http://www.amazon.in/product-reviews/B00H3YSW6K?pageNumber=13",
+			 "http://www.amazon.in/product-reviews/B00H3YSW6K?pageNumber=14",
+			 "http://www.amazon.in/product-reviews/B00H3YSW6K?pageNumber=15",
+			 
+			 "http://www.amazon.in/product-reviews/B00D8XYAIO?pageNumber=1",
+			 "http://www.amazon.in/product-reviews/B00D8XYAIO?pageNumber=2",
+			 "http://www.amazon.in/product-reviews/B00D8XYAIO?pageNumber=3",
+			 "http://www.amazon.in/product-reviews/B00D8XYAIO?pageNumber=4",
+			 "http://www.amazon.in/product-reviews/B00D8XYAIO?pageNumber=5",
+			 
+			 "http://www.amazon.in/product-reviews/B00H3YT1S8?pageNumber=1",
+			 "http://www.amazon.in/product-reviews/B00H3YT1S8?pageNumber=2",
+			 "http://www.amazon.in/product-reviews/B00H3YT1S8?pageNumber=3",
+			 "http://www.amazon.in/product-reviews/B00H3YT1S8?pageNumber=4",
+			 "http://www.amazon.in/product-reviews/B00H3YT1S8?pageNumber=5",
+			 "http://www.amazon.in/product-reviews/B00H3YT1S8?pageNumber=6",
+			 "http://www.amazon.in/product-reviews/B00H3YT1S8?pageNumber=7",
+			 "http://www.amazon.in/product-reviews/B00H3YT1S8?pageNumber=8",
+			 "http://www.amazon.in/product-reviews/B00H3YT1S8?pageNumber=9",
+			 "http://www.amazon.in/product-reviews/B00H3YT1S8?pageNumber=10",
+			 "http://www.amazon.in/product-reviews/B00H3YT1S8?pageNumber=11",
+			 "http://www.amazon.in/product-reviews/B00H3YT1S8?pageNumber=12",
+			 "http://www.amazon.in/product-reviews/B00H3YT1S8?pageNumber=13",
+			 "http://www.amazon.in/product-reviews/B00H3YT1S8?pageNumber=14",
+			 "http://www.amazon.in/product-reviews/B00H3YT1S8?pageNumber=15",
+			 "http://www.amazon.in/product-reviews/B00H3YT1S8?pageNumber=16",
+			 "http://www.amazon.in/product-reviews/B00H3YT1S8?pageNumber=17",
+			 "http://www.amazon.in/product-reviews/B00H3YT1S8?pageNumber=18",
+			 "http://www.amazon.in/product-reviews/B00H3YT1S8?pageNumber=19",
+			 "http://www.amazon.in/product-reviews/B00H3YT1S8?pageNumber=20",
+			 
+			 B00H3YSW6K
+			 B00D8XYAIO
+			 B00H3YT1S8
+			 B00JB6RT8K
+			 B00JB6RXBI
+			 B00K3FZ72S
+			 B0080DJ6CM
+			 B007VCRRNS
+			 B00A4A5CO0
+			 B00CL4HUSI
+			 ]
+
+<Apple>  - ["http://www.amazon.in/product-reviews/B00CL8XFJW?pageNumber=1",
+"http://www.amazon.in/product-reviews/B00CL8XFJW?pageNumber=2",
+"http://www.amazon.in/product-reviews/B00CL8XFJW?pageNumber=3",
+"http://www.amazon.in/product-reviews/B00CL8XFJW?pageNumber=4",
+"http://www.amazon.in/product-reviews/B00CL8XFJW?pageNumber=5",
+			
+			"http://www.amazon.in/product-reviews/B00FXLCD38?pageNumber=1",
+			"http://www.amazon.in/product-reviews/B00FXLCD38?pageNumber=2",
+			"http://www.amazon.in/product-reviews/B00FXLCD38?pageNumber=3",
+			"http://www.amazon.in/product-reviews/B00FXLCD38?pageNumber=4",
+			
+			"http://www.amazon.in/product-reviews/B00DFDU248?pageNumber=1",
+			"http://www.amazon.in/product-reviews/B00DFDU248?pageNumber=2",
+			"http://www.amazon.in/product-reviews/B00DFDU248?pageNumber=3",
+			"http://www.amazon.in/product-reviews/B00DFDU248?pageNumber=4",
+			"http://www.amazon.in/product-reviews/B00DFDU248?pageNumber=5",
+			"http://www.amazon.in/product-reviews/B00DFDU248?pageNumber=6",
+			"http://www.amazon.in/product-reviews/B00DFDU248?pageNumber=7",
+			"http://www.amazon.in/product-reviews/B00DFDU248?pageNumber=8",
+			"http://www.amazon.in/product-reviews/B00DFDU248?pageNumber=9",
+			"http://www.amazon.in/product-reviews/B00DFDU248?pageNumber=10",
+			"http://www.amazon.in/product-reviews/B00DFDU248?pageNumber=11",
+			"http://www.amazon.in/product-reviews/B00DFDU248?pageNumber=12",
+			"http://www.amazon.in/product-reviews/B00DFDU248?pageNumber=13",
+			"http://www.amazon.in/product-reviews/B00DFDU248?pageNumber=14",
+			"http://www.amazon.in/product-reviews/B00DFDU248?pageNumber=15",
+			
+			B00CL8XFJW
+			B00FXLCD38
+			B00DFDU248
+			B00FXLC9V4
+			B00FXLCG7G
+			B00GFGKC92
+			B00GFGE5VS
+			B00CL8XE8Y
+			B00CL8XFJW
+			B00CL8X3UI
+			
+			]
+Phones Regression Data -
+[
+    "http://www.amazon.in/product-reviews/B00CE2LO8Y",
+	"http://www.amazon.in/product-reviews/B00HRUQ2L2",
+	"http://www.amazon.in/product-reviews/B00EOPJEYK",
+	"http://www.amazon.in/product-reviews/B00GAPPY0A",
+	"http://www.amazon.in/product-reviews/B00IXD0B8W",
+	"http://www.amazon.in/product-reviews/B00CE2LUKQ",
+	"http://www.amazon.in/product-reviews/B00DQ4D2N4",
+	"http://www.amazon.in/product-reviews/B00CM4W5OQ",
+	"http://www.amazon.in/product-reviews/B00IKC5HQC",
+	"http://www.amazon.in/product-reviews/B00BJDSJTG",
+	
+	"http://www.amazon.in/product-reviews/B00H3YSW6K",
+	"http://www.amazon.in/product-reviews/B00D8XYAIO",
+	"http://www.amazon.in/product-reviews/B00H3YT1S8",
+	"http://www.amazon.in/product-reviews/B00JB6RT8K",
+	"http://www.amazon.in/product-reviews/B00JB6RXBI",
+	"http://www.amazon.in/product-reviews/B00G8UGSGG",
+	"http://www.amazon.in/product-reviews/B0080DJ6CM",
+	"http://www.amazon.in/product-reviews/B007VCRRNS",
+	"http://www.amazon.in/product-reviews/B00A4A5CO0",
+	"http://www.amazon.in/product-reviews/B00CL4HUSI",		 
+	
+	"http://www.amazon.in/product-reviews/B00CL8XFJW",
+	"http://www.amazon.in/product-reviews/B00FXLCD38",
+	"http://www.amazon.in/product-reviews/B00GRLYSDQ",
+	"http://www.amazon.in/product-reviews/B00FXLC9V4",
+	"http://www.amazon.in/product-reviews/B00FXLCG7G",
+	"http://www.amazon.in/product-reviews/B00GFGKC92",
+	"http://www.amazon.in/product-reviews/B00GFGE5VS",
+	"http://www.amazon.in/product-reviews/B00CL8XE8Y",
+	"http://www.amazon.in/product-reviews/B00CL8XFJW",
+	"http://www.amazon.in/product-reviews/B00CL8X3UI",
+	]
